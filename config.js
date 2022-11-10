@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Ahihi ngại ghê 🥰. Yêu cậu nhiều nhiều nắm nuôn 😘😘',
     messDesc: 'Tối tui qua rước đi chơi nghe 😘',
     btnAccept: 'Okiiii',
-    messLink: 'https://m.facebook.com/messages/t/100015629504374' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
